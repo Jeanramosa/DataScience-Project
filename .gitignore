@@ -1,6 +1,7 @@
 mlruns/
 mlartifacts/
 hide/
+Bank_Marketing/
 
 # Para no subir data
 data/
