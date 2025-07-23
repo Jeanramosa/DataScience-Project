@@ -4,3 +4,10 @@ pandas==2.2.3
 matplotlib==3.10.1
 seaborn==0.13.2
 scikit-learn==1.6.1
+mlflow==2.22.1
+sqlalchemy==2.0.41
+pymysql==1.1.1
+meteostat==1.7.4
+xlrd==2.0.2
+missingno==0.5.2
+plotly==6.2.0
