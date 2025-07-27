@@ -11,3 +11,4 @@ meteostat==1.7.4
 xlrd==2.0.2
 missingno==0.5.2
 plotly==6.2.0
+kaleido==1.0.0
