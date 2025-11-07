@@ -6,7 +6,6 @@ A collection of data science projects addressing real-world challenges in areas 
 
 To centralize various data science projects covering:
 - Exploratory Data Analysis (EDA)
-- Extract, transformation and load (ETL)
 - Predictive Modeling (Machine Learning)
 - Data Visualization using Python
 
@@ -22,7 +21,7 @@ To centralize various data science projects covering:
 | 📂 Project | 📝 Description | 🔗 Link |
 |------------|----------------|---------|
 | **Datathon-Bakery** | Predict sales volumes for the best-selling products in each product family. | [View Project](Datathon_Bakery) |
-| **Project-CRM** | Predict the quantity of opportunities will be close like won or lost. | [View Project](CRM_Data) |
+| **Campaing-Project** | Predict how well a new campaign will perform based on its channel, campaign type, and target audience. | [View Project](Marketing_Predict) |
 
 ## 📬 Contact
 

@@ -1,13 +1,21 @@
-# 🥖 BAKERY PROJECT
+# 📊 CAMPAING PREDICT
 
-## 🎯 Objetivo
+## 🎯 Objetive
 
-El objetivo de este proyecto es crear un modelo predictivo en donde se conozca la cantidad de unidades vendidas por cada artículo.
+The objective of the project is predict how well a new campaign will perform based on its channel, campaign type, and target audience.
 
-## Estructura
+## 📘 Summary
 
-La Estructura del proyecto consiste de la siguiente manera:
+1. EDA: In this notebook you will find the exploratory data analysis of the dataset, to find new insight and prepare the data for the model.
+2. MLOps: In this notebook you will find the the dataset prepared and the models predictives and the connectivity with MLflow.
 
-    1. Load Data: Se explica la conexión con la base de datos (MYSQL) y la creación de las tablas.
-    2. EDA: Se explica la limpieza de los datos y encontrar insights.
-    3. MLOps: Se muestra el despliegue del modelo en MLFlow para hacer las predicciones.
+## 🔧 Tools and Technologies Used
+
+- **Languages:** Python
+- **Environments:** Jupyter Notebook / VSCode
+- **Visualization:** Seaborn, Matplotlib
+- **Data Sources:** Kaggle, CSV files
+
+## Resources
+
+The dataset you can find in Kaggle with this [link](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset)
