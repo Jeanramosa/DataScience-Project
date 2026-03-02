@@ -2,18 +2,18 @@
 
 ## 🎯 Objetive
 
-The objective of the project is predict how well a new campaign will perform based on its channel, campaign type, and target audience.
+The project's objective is to perform an ETL process and create dashboard in Looker Studio and then crate a prediction model.
 
 ## 📘 Summary
 
-1. EDA: In this notebook you will find the exploratory data analysis of the dataset, to find new insight and prepare the data for the model.
-2. MLOps: In this notebook you will find the the dataset prepared and the models predictives and the connectivity with MLflow.
+1. ETL: In this notebook you will find an basic exploratory data analysis of the dataset and the ETL process.
+
 
 ## 🔧 Tools and Technologies Used
 
 - **Languages:** Python
 - **Environments:** Jupyter Notebook / VSCode
-- **Visualization:** Seaborn, Matplotlib
+- **Visualization:** Looker Studio
 - **Data Sources:** Kaggle, CSV files
 
 ## Resources
