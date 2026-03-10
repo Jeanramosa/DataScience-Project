@@ -2,11 +2,12 @@
 
 ## 🎯 Objetive
 
-The project's objective is to perform an ETL process and create dashboard in Looker Studio and then crate a prediction model.
+The project's objective is to perform an ETL process and create dashboard in Looker Studio and create a model to predict what campaign use to get a good ROI.
 
 ## 📘 Summary
 
 1. ETL: In this notebook you will find an basic exploratory data analysis of the dataset and the ETL process.
+2. ML: In this notebook you will find the prediction model about what ROI I will get if I use an specific campaign.
 
 
 ## 🔧 Tools and Technologies Used
